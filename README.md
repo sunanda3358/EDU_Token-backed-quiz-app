@@ -62,12 +62,12 @@ The project has significant potential for expansion in the following areas:
 ### User Experience
 
 1. **Simple Participation**: Easy-to-understand quiz format with multiple-choice questions
-2. **Immediate Feedback**: Users can see their scores immediately after submission
+2. **Immediate Feedback**: Users can see their scores immediately after submission 
 3. **Transparent Rewards**: Clear connection between performance and token rewards
 4. **Verifiable History**: All quiz attempts are recorded on the blockchain for transparency
 5. **Multiple Attempts**: Users can retry quizzes to improve their knowledge and earn rewards
 
-##contract address
+###contract address
 
 contract address-0x5E7B73e43d3cA464E7acFcc6F02AA831F7D7481a
 ![image](https://github.com/user-attachments/assets/cb05afd2-6f81-431a-80cb-6f0344bb84a2)
