@@ -67,7 +67,6 @@ The project has significant potential for expansion in the following areas:
 4. **Verifiable History**: All quiz attempts are recorded on the blockchain for transparency
 5. **Multiple Attempts**: Users can retry quizzes to improve their knowledge and earn rewards
 
-###contract address
 
 contract address-0x5E7B73e43d3cA464E7acFcc6F02AA831F7D7481a
 ![image](https://github.com/user-attachments/assets/cb05afd2-6f81-431a-80cb-6f0344bb84a2)
