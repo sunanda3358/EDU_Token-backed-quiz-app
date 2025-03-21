@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz DApp</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.8.0/web3.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Quiz DApp</h1>
+        <button id="connectWallet">Connect Wallet</button>
+        <div id="quizContainer" class="hidden">
+            <h2>Available Quizzes</h2>
+            <ul id="quizList"></ul>
+        </div>
+        <div id="questionContainer" class="hidden">
+            <h2 id="quizTitle"></h2>
+            <p id="quizDescription"></p>
+            <div id="questions"></div>
+            <button id="submitQuiz">Submit Quiz</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
